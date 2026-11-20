@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.python_packages/
+.idea/
+.vscode/
+keys.txt
+.env
+working_dir/
+output.pdf
